@@ -3,8 +3,8 @@
     <h1>
       L'Appareil d'Ilizarov ( appareil de Forrest Gump )
     </h1>
-    <img  style="width: 300px;margin:auto;"
-      src="https://ik.imagekit.io/thumbnail/Test/poihuyvtyd.webp?updatedAt=1683805914356" />
+    <img alt="forrest-gump-in-a-suite-sitting-on-a-bench" style="width: 300px;margin:auto;"
+      src="https://ik.imagekit.io/thumbnail/Test/forrest-gump-in-a-suite-sitting-on-a-bench.webp?updatedAt=1683803890934" />
     <h2>
       Création de l'appareil d'Ilizarov
     </h2>
